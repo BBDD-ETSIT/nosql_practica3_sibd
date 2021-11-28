@@ -4,11 +4,11 @@
 	"license": "GNU",
 	"version": "0.0.0",
 	"info": {
-        "githubURL": "BBDD-ETSIT/nosql_practica3_sibd",
-        "serverUrl": "https://autocorector.dit.upm.es/",
-        "courseId": "903",
-        "assignmentId": "7820"
-    },
+		"githubURL": "BBDD-ETSIT/nosql_practica3_sibd",
+		"serverUrl": "https://autocorector.dit.upm.es/",
+		"courseId": "903",
+		"assignmentId": "7820"
+	},
 	"scripts": {
 		"start": "node rest_server.js",
 		"seed": "md-seed run",
